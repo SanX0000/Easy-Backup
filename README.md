@@ -1,4 +1,4 @@
-#<h1 align="center"> Python-Project</h1>
+#<h1 align="center"> SpeedTest</h1>
 
 <h2 align="center"> A ideia do projeto 💡</h2>
 

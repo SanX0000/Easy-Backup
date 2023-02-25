@@ -1,6 +1,7 @@
 #<h1 align="center"> SpeedTest</h1>
 
 <h2 align="center"> A ideia do projeto 💡</h2>
+Esse projeto é um app que testa a velocidade da sua internet
 
 <h2 align="center"> Desafios e aprendizados🧑‍💻✍️</h2>
 

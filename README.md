@@ -29,18 +29,19 @@ https://www.jetbrains.com/pycharm/download/?section=windows  (não baixe a vers�
 
 # <h4> Passo 2 - Personalizando os arquivos </h4>
 
- - Agora é importante que você edite os arquivos com os caminho tanto da pasta que você quer copiar, quanto da pasta onde será feito o backup.
+ - Agora é importante que você edite os arquivos com os caminhos tanto da pasta que você quer copiar, quanto da pasta onde será feito o backup.
 
  - Para editar os arquivos, você pode clicar com o botão direito em cima, e no menu de contexto, escolher a opção "Abrir com" para abrir com o bloco de notas (se estiver no Windows 11, antes de abrir com deverá escolher "Mostrar Mais Opções")
 
- - Coloque o caminho das pastas espectivas, após isso salve os aquivos, tomando  cuidado de não mudar a extensão.
+ - Coloque o caminho das respectivas pastas, após isso salve os aquivos, tomando  cuidado de não mudar a extensão.
 
 # <h4> Passo 3 - Configurando o agendador de tarefas do Windows </h4>
 
- - Agora que os arquivos já estão com os caminhos das pastas do seu PC, você deve configurar o Windows para acessar eles e fazer a mágica acontecer! Siga o passo a passo abaixo:
+ - Agora que os arquivos já estão com os caminhos das pastas do seu PC, você deve configurar o Windows para acessar eles e fazer a mágica acontecer!
+
+   Siga o passo a passo abaixo:
 
 - Pressione Win + S, digite "Agendador de Tarefas" e abra o aplicativo correspondente.
-
 - No painel de ações à direita, clique em "Criar Tarefa Básica...".
 - Siga as instruções do assistente para configurar a tarefa:
 - Defina o nome e a descrição da tarefa.

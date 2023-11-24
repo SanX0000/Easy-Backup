@@ -15,7 +15,7 @@ Simples, rápido e prático.
 
 # <h2 align="center"> Instruções 📋 </h2>
 
-Para que esse sript funcione, siga os passos a seguir. A instalação do Pycharm é opcional, mas recomendada.
+Para que esse script funcione, siga os passos a seguir. A instalação do Pycharm é opcional, mas recomendada.
 
 # <h4> Passo 1 - Instalando o Python 3 </h4>
 
@@ -25,8 +25,7 @@ https://www.python.org/downloads/
 
 https://www.jetbrains.com/pycharm/download/?section=windows  (não baixe a versão Professional e sim a Community Edition) 
 
-<b>IMPORTANTE 🚨 = Ao instalar ambos, certifique-se de que eles sejam adicionados ao path do windows. Isso fará com que o Windows os relacione mais facilmente na hora de abrir
-arquivos. Em geral a própria instalação deles, já irá aparecer essa opção.</b>
+<b>IMPORTANTE 🚨 = Ao instalar ambos, certifique-se de que eles sejam adicionados ao path do Windows. Isso fará com que o Windows os relacione mais facilmente na hora de abrir arquivos. Em geral na própria instalação deles, já irá aparecer essa opção.</b>
 
 # <h4> Passo 2 - Personalizando os arquivos </h4>
 

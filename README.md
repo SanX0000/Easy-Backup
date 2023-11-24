@@ -1,7 +1,7 @@
 #<h1 align="center"> Easy Backup</h1>
 
 <h2 align="center"> A ideia do projeto 💡</h2>
-Esse projeto é um comando em Phyton que aliado a um arquivo .bat irá fazer um backup automático de qualquer pasta do seu PC.
+Esse projeto é um comando em Python que aliado a um arquivo .bat irá fazer um backup automático de qualquer pasta do seu PC.
 
 Isso pode ser útil, pois mesmo serviços como o One Drive podem ser limitados quanto a que tipo de pastas incluir no backup.
 Usando esse script, consegui fazer o backup de pastas que normalmente não seriam perimitidas no One Drive (Ex. Documentos Públicos).
@@ -17,7 +17,7 @@ Simples, rápido e prático.
 
 Para que esse sript funcione, siga os passos a seguir. A instalação do Pycharm é opcional, mas recomendada.
 
-# <h4> Passo 1 - Instalando o Phyton 3 </h4>
+# <h4> Passo 1 - Instalando o Python 3 </h4>
 
 Você pode baixar eles nos links abaixo: 👇
 
@@ -56,7 +56,7 @@ Teste a Tarefa Agendada.
 
 # <h2 align="center"> Conclusão 🤝 </h2>
 
- - Esse projeto mostra como a linguagem Phyton é versátil e poderosa, podendo ser útil em automatizar tarefas diárias de forma simples. ✅
+ - Esse projeto mostra como a linguagem Python é versátil e poderosa, podendo ser útil em automatizar tarefas diárias de forma simples. ✅
  - Espero que esse projeto lhe possa ser útil. Fique a vontade para propor sugestões. 📝
  - Obrigado por chegar até aqui. 😊
 

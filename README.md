@@ -4,7 +4,7 @@
 Esse projeto é um comando em Python que aliado a um arquivo .bat irá fazer um backup automático de qualquer pasta do seu PC.
 
 Isso pode ser útil, pois mesmo serviços como o One Drive podem ser limitados quanto a que tipo de pastas incluir no backup.
-Usando esse script, consegui fazer o backup de pastas que normalmente não seriam perimitidas no One Drive (Ex. Documentos Públicos).
+Usando esse script, consegui fazer o backup de pastas que normalmente não seriam permitidas no One Drive (Ex. Documentos Públicos).
 
 Fazendo um backup diário de pastas desse tipo para um local seguro (um serviço on-line como o próprio One Drive ou outro armazenamento)
 irá lhe poupar o trabalho de salvar esse tipo de pasta sempre que precisar. 

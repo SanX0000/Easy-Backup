@@ -56,8 +56,8 @@ Teste a Tarefa Agendada.
 
 # <h2 align="center"> Conclusão 🤝 </h2>
 
- - Esse projeto mostra como a linguagem Phyton é versátil e poderosa, podendo ser útil em automatizar tarefas diárias de forma simples.
- - Espero que esse projeto lhe possa ser útil. Fique a vontade para propor sugestões. 
+ - Esse projeto mostra como a linguagem Phyton é versátil e poderosa, podendo ser útil em automatizar tarefas diárias de forma simples. ✅
+ - Espero que esse projeto lhe possa ser útil. Fique a vontade para propor sugestões. 📝
  - Obrigado por chegar até aqui. 😊
 
 

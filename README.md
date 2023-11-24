@@ -1,4 +1,4 @@
-#<h1 align="center"> Backup Automático</h1>
+#<h1 align="center"> Easy Backup</h1>
 
 <h2 align="center"> A ideia do projeto 💡</h2>
 Esse projeto é um comando em Phyton que aliado a um arquivo .bat irá fazer um backup automático de qualquer pasta do seu PC.
